@@ -14,17 +14,13 @@ Fully Simulated: Run circuits, view outputs, and debug interactively in Proteus
 
 Modular Setup: Organized project backups and workspace tracking for development flexibility
 
-📂 Project Structure
-graphql
-Copy
-Edit
-i240605_i240621/
-├── 4bit.pdsprj                      # Main 4-bit ALU simulation project
-├── 8Bit Final.pdsprj               # Main 8-bit ALU simulation project
-├── Physical.pdsprj                 # Optional: Physical layout or hardware mapping
-├── Final Report.docx               # Project documentation with diagrams and opcodes
-├── Project Backups/                # Timestamped Proteus backup versions
-└── *.workspace                     # Proteus IDE workspace files
+Project Structure
+├── 4bit.pdsprj                     # Main 4-bit ALU simulation project
+├── 8Bit Final.pdsprj              # Main 8-bit ALU simulation project
+├── Physical.pdsprj                # Optional: Physical layout or hardware mapping
+├── Final Report.docx              # Project documentation with diagrams and opcodes
+
+
 🛠️ Requirements
 Proteus: To open and simulate .pdsprj files
 
